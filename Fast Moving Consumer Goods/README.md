@@ -2,4 +2,4 @@ New DG Food Agro is a multinational exporter of various grains from India for ne
 
 Now they need to decide which countries fall in the same range of export and which don’t. They also need to know which countries export is low and can be improved and which countries are performing very well across the years. What they need is a repeatable solution which won’t get affected no matter how much data is added across time and that they should be able to explain the data across years in less number of variables.
 
-Please click this link https://bit.ly/2nlihgq to view the notebook with complete rendering of plotly world map plots.
+Please click this link https://bit.ly/2nlT9WS to view the notebook with complete rendering of plotly world map plots.
