@@ -1,7 +1,7 @@
 Please click this link, https://bit.ly/2MkdJ2R to view this notebook in nbviewer.
 
 About this dataset:
-Copied from: https://www.kaggle.com/c/titanic/data
+Copied from kaggle: https://www.kaggle.com/c/titanic/data
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg.
